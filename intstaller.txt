@@ -1,0 +1,13 @@
+//INSTALLER BASH SCRIPT
+
+winget install --id Git.Git -e --source winget
+
+git config --global user.name "your_username"
+git config --global user.email "your_email_address@example.com"
+git config --global --list
+git clone 
+
+
+links
+
+https://www.amd.com/en/support/graphics/radeon-500-series/radeon-rx-500-series/radeon-rx-580
